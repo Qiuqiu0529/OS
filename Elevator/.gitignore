@@ -1,0 +1,11 @@
+/.plastic
+/.vs
+/.vsconfig
+/Assembly-CSharp.csproj
+/Elevator.sln
+/ignore.conf
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/UserSettings
